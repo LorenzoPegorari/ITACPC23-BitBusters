@@ -1,4 +1,4 @@
-# ITACPC 2023 - Bit Busters
+# ITACPC23-BitBusters
 Repo of the final problems solved during the competition [ITACPC 2023](https://www.itacpc.it/home) by the team Bit Busters, composed by:
 - [Fausto Allegrini](https://github.com/fausto555)
 - [Lorenzo Pegorari](https://github.com/LorenzoPegorari)

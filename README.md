@@ -7,3 +7,5 @@ Repo of the final problems solved during the competition [ITACPC 2023](https://w
 We solved 4 out of 12 problems in 240 minutes, and we ranked:
 - 49th out of all the 303 teams (617 people),
 - 14th out of the 97 teams (196 students) of Politecnico di Milano.
+
+![preview](preview.jpg)

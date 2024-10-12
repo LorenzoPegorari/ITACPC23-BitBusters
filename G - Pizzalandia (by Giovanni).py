@@ -52,8 +52,3 @@ for i in range(0,number_of_testCases):
 
 for res in results:
     print(res)
-
-
-
-
-

@@ -30,4 +30,4 @@ while i < n:
         max_val = current
     i += 1
 
-print(max_val) 
+print(max_val)
